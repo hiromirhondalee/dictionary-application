@@ -1,0 +1,21 @@
+.App-logo {
+  max-width: 200px;
+  margin: 10px auto;
+  display:block;
+}
+
+.App-footer {
+    font-size: 13px;
+    text-align: center;
+    color:#786F6F;
+}
+
+.App-link {
+  color: #FF6150;
+  text-decoration: none;
+}
+
+.App-main {
+  margin: 20px;
+  text-align: center;
+}
