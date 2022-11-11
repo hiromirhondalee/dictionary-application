@@ -11,3 +11,8 @@
  border-radius: 8px;
  border: 1px solid #ddd;
 }
+
+.Dictionary h1 {
+  font-size: 25px;
+color: rgb(78, 74, 74);
+}

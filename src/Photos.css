@@ -1,0 +1,19 @@
+.Photos {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 5px 20px rgba(0,0,0, 0.2);
+  margin: 15px 0px;
+}
+
+.Photos img {
+  border-radius: 5px;
+  margin-bottom: 20px;
+ ;}
+
+ .Photos img:hover {
+    transform: scale(1.1);
+ }
+
+
+  
