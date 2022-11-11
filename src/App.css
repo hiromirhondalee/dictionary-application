@@ -1,17 +1,27 @@
+.App {
+  background: #ffb7a1;
+}
+
+.App-logo-bar {
+  background: #f8f9fa;
+  display: flex;
+}
+
 .App-logo {
   max-width: 200px;
   margin: 10px auto;
-  display:block;
+  display: block;
+  
 }
 
 .App-footer {
-    font-size: 13px;
-    text-align: center;
-    color:#786F6F;
+  font-size: 13px;
+  text-align: center;
+  color: #786f6f;
 }
 
 .App-link {
-  color: #FF6150;
+  color: #ff6150;
   text-decoration: none;
 }
 

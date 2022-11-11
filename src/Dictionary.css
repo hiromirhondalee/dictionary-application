@@ -1,0 +1,13 @@
+.Dictionary .search-section {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 5px 20px rgba(0,0,0, 0.2);
+}
+
+.Dictionary input {
+ width: 100%;
+ padding: 5px 10px;
+ border-radius: 8px;
+ border: 1px solid #ddd;
+}

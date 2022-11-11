@@ -1,0 +1,10 @@
+.Phonetics .phonetics-audio {
+  margin: 30px;
+  border: 1px solid #dddddd;
+  padding: 10px;
+  padding-top: 30px;
+  border-radius: 8px;
+}
+.Phonetics h3 {
+  color: grey;
+}

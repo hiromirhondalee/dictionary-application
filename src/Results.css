@@ -1,0 +1,11 @@
+.Results .summary {
+   background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 5px 20px rgba(0,0,0, 0.2);
+  margin: 15px 0px;
+}
+
+.Results h2 {
+  font-size: 32px;
+}
